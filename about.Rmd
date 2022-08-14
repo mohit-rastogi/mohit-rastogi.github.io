@@ -12,4 +12,13 @@ twitter:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Welcome to my personal website! I am neuroscientist, digital illustrator, sketch artist, and a Postdoctoral fellow at Italian Institute of Technology in the Brain Disease and Development Department. I study neurodevelopmental disorder, down syndrome with a focus on multi-omics analysis and human induced pluripotent stem cells. 
+Welcome to my personal website! I am a neuroscientist, digital illustrator, sketch artist, and a Postdoctoral fellow at Italian Institute of Technology in the Brain Disease and Development Department. 
+
+I study neurodevelopmental disorder, Down syndrome with a focus on multi-omics analysis and human induced pluripotent stem cells. 
+
+Thanks for visiting my site, and I am grateful for any feedback you may have!
+
+Cheers,
+
+Mohit
+
