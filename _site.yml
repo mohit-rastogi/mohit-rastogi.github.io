@@ -1,6 +1,7 @@
 name: "mohitrastogi"
 title: "Mohit Rastogi"
 theme: theme.css
+output_dir: "docs"
 description: |
   The personal website of Mohit Rastogi
 twitter:
