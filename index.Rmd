@@ -1,0 +1,39 @@
+---
+title: "Mohit Rastogi"
+image: "images/mohit_bordeaux_wine.jpg"
+links:
+  - label: 'CV'
+    url: "content/CV_Mohit_Rastogi.pdf"
+  - label: '<i class="fab fa-github fa-lg"></i>'
+    url: "https://github.com/"
+  - label: '<i class="fab fa-twitter fa-lg"></i>'
+    url: "https://twitter.com/mohitrastogi9"
+  - label: '<i class="fab fa-linkedin fa-lg"></i>'
+    url: "https://www.linkedin.com/in/mohitrastogi9/"
+  - label: '<i class="fa fa-google" aria-hidden="true"></i>'
+    url: "https://scholar.google.com/citations?user=esbYQ6kAAAAJ&hl=en"
+  - label: '<i class="fa fa-envelope" aria-hidden="true"></i>'
+    url: "mailto:mohitrastogi9@gmail.com"
+preview: images/mohit_bordeaux_wine.jpg
+favicon: images/favicon.ico
+twitter:
+  creator: "@mohitrastogi9"
+  site: "@mohitrastogi9"
+site: distill::distill_website
+output:
+  postcards::trestles
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+### Hello
+
+I am neuroscientist, digital illustrator, sketch artist, and a Postdoctoral fellow at Italian Institute of Technology in the Brain Disease and Development Department. I study neurodevelopmental disorder, down syndrome with a focus on multi-omics analysis and human induced pluripotent stem cells. 

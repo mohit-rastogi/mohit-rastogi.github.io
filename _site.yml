@@ -1,0 +1,30 @@
+name: "mohitrastogi"
+title: "Mohit Rastogi"
+theme: theme.css
+description: |
+  The personal website of Mohit Rastogi
+twitter:
+  site: "@mohitrastogi9"
+creative_commons: CC BY-SA
+favicon: images/favicon.ico
+navbar:
+  search: true
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Blog"
+      href: blog.html
+      menu:
+        - text: "CV"
+          href: content/CV_Mohit_Rastogi.pdf
+        - icon: fab fa-github
+          href: https://github.com/mohit-rastogi
+        - icon: fab fa-twitter
+          href: https://twitter.com/mohitrastogi9
+        - icon: fa fa-linkedin
+          href: https://www.linkedin.com/in/mohitrastogi9
+        - icon: fa fa-google
+          href: https://scholar.google.com/citations?user=esbYQ6kAAAAJ&hl=en
+output: distill::distill_article

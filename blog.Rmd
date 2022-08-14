@@ -1,0 +1,7 @@
+---
+title: "Blog"
+twitter:
+  creator: "@mohitrastogi9"
+preview: images/mohit_bordeaux_wine.jpg
+listing: posts
+---
