@@ -7,7 +7,7 @@ description: |
 twitter:
   site: "@mohitrastogi9"
 creative_commons: CC BY-SA
-favicon: images/logo.png
+favicon: images/favicon.ico
 navbar:
   search: true
   right:

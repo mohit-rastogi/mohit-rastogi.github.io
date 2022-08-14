@@ -15,7 +15,7 @@ links:
   - label: '<i class="fa fa-envelope" aria-hidden="true"></i>'
     url: "mailto:mohitrastogi9@gmail.com"
 preview: images/mohit_bordeaux_wine.jpg
-favicon: images/logo.png
+favicon: images/favicon.ico
 twitter:
   creator: "@mohitrastogi9"
   site: "@mohitrastogi9"
